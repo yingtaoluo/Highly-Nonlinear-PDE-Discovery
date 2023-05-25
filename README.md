@@ -1,5 +1,5 @@
 # Highly-Nonlinear-PDE-Discovery
-"Physics-Guided Discovery of Highly Nonlinear Parametric Partial Differential Equations" published in ACM SIGKDD 2023. 
+"Physics-Guided Discovery of Highly Nonlinear Parametric Partial Differential Equations" published in ACM SIGKDD 2023. [[DOI](https://doi.org/10.1145/3580305.3599466)]
 
 ## Datasets
 
