@@ -11,11 +11,9 @@ Part of the code directly inherit previous works [[1](https://github.com/snagcli
 ## Citation
 If you're using HIN-PDE in your research or applications, please cite using this BibTeX:
 ```bibtex
-@article{luo2022physicsguided,
+@inproceedings{luo2023physicsguided,
       title={Physics-Guided Discovery of Highly Nonlinear Parametric Partial Differential Equations}, 
-      author={Yingtao Luo and Qiang Liu and Yuntian Chen and Wenbo Hu and Jun Zhu},
-      year={2022},
-      eprint={2106.01078},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+      author={Luo, Yingtao and Liu, Qiang and Chen, Yuntian and Hu, Wenbo and Tian, Tian and Zhu, Jun},
+      booktitle = {Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},
+      year={2023},
 }
