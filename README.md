@@ -1,6 +1,9 @@
 # Highly-Nonlinear-PDE-Discovery
 "Physics-Guided Discovery of Highly Nonlinear Parametric Partial Differential Equations" published in ACM SIGKDD 2023. [[DOI](https://doi.org/10.1145/3580305.3599466)]
 
+## Video Presentation
+Feel free to check out both short and long versions: [[2-minutes Promotional Video](https://github.com/yingtaoluo/Highly-Nonlinear-PDE-Discovery/blob/main/2min%20Presentation%20on%20HIN-PDE.pptx)] and [[20-minutes Presentation Video](https://github.com/yingtaoluo/Highly-Nonlinear-PDE-Discovery/blob/main/Presentation%20on%20HIN-PDE.pptx)]
+
 ## Datasets
 
 ## Getting Started
