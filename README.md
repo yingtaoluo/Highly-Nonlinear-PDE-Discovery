@@ -3,7 +3,7 @@
 
 ## Oral & Poster Presentation
 Feel free to check out both short and long versions.  
-2-minutes short version: [[PPT](https://github.com/yingtaoluo/Highly-Nonlinear-PDE-Discovery/blob/main/2min%20Presentation%20on%20HIN-PDE.pptx)] [[Video](https://youtu.be/tQvm1QLL6sE)] 
+2-minutes short version: [[PPT](https://github.com/yingtaoluo/Highly-Nonlinear-PDE-Discovery/blob/main/2min%20Presentation%20on%20HIN-PDE.pptx)] [[Video](https://youtu.be/tQvm1QLL6sE)]  
 20-minutes long version: [[PPT](https://github.com/yingtaoluo/Highly-Nonlinear-PDE-Discovery/blob/main/Presentation%20on%20HIN-PDE.pptx)]  
 Poster: [[PPT](https://github.com/yingtaoluo/Highly-Nonlinear-PDE-Discovery/blob/main/KDD2023_Poster.pptx)]  
 
