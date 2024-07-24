@@ -7,10 +7,6 @@ Feel free to check out both short and long versions.
 20-minutes long version: [[PPT](https://github.com/yingtaoluo/Highly-Nonlinear-PDE-Discovery/blob/main/Presentation%20on%20HIN-PDE.pptx)]  
 Poster: [[PPT](https://github.com/yingtaoluo/Highly-Nonlinear-PDE-Discovery/blob/main/KDD2023_Poster.pptx)]  
 
-## Datasets
-
-## Getting Started
-
 ## Acknowledgement
 Part of the code directly inherit previous works [[1](https://github.com/snagcliffs/PDE-FIND)] and [[2](https://github.com/isds-neu/EQDiscovery)].
 
